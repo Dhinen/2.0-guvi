@@ -1,3 +1,3 @@
-n=input().split()
-d=sorted(n)
+s=input().split()
+d=sorted(s)
 print(' '.join(d))  
